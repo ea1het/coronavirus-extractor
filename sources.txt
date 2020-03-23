@@ -1,0 +1,5 @@
+#
+# Newly registered domains today (per day)
+# https://whoisds.com/whois-database/newly-registered-domains/2020-03-23.zip/nrd
+#
+https://whoisds.com/whois-database/newly-registered-domains/DATE_HERE.zip/nrd
